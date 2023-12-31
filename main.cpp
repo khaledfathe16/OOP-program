@@ -9,7 +9,8 @@ By Eng : Khaled Fathy Esmail
 *****************************************************/
 
 #include <iostream>
-#include "Point.h"
+//#include "Point.h"
+#include "Point.cpp"
 using namespace std;
 
 int main()
